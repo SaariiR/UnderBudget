@@ -9,8 +9,14 @@ import models.*;
 
 public class Application extends Controller {
 
-    public static void index() {
+   
+    public static void login() {
         render();
+    }
+
+   
+    public static void logout() {
+
     }
 
 }
