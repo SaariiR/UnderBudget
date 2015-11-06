@@ -2,3 +2,6 @@
 
 require:
     - play
+    - play -> crud
+    - play -> secure
+    - play -> fbconnect 0.6
