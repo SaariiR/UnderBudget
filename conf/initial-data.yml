@@ -1,0 +1,4 @@
+User(admin):
+    email: admin@underBudget.com
+    password: admin
+    admin: true
